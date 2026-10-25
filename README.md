@@ -1,136 +1,25 @@
-<!-- 
-  GitHub Profile README for Saif Ul Islam
-  Design: Cyberpunk/Terminal Neon Green Theme
-  Note: GitHub Markdown does not support custom CSS, background images, or custom fonts.
-  This layout uses HTML tables (which GitHub supports) and SVG badges to recreate the exact design.
--->
+#  About Me:
+I am a Software Engineering graduate from the University of Swat, Pakistan, with a strong interest in Artificial Intelligence and Machine Learning. My primary focus is exploring how intelligent systems can solve real-world problems through practical software applications and research-oriented development.<br><br>I am particularly interested in generative AI, machine learning models, and emerging AI technologies. Full-Stack Engineering is my supporting technical area, allowing me to turn ideas into functional applications and build complete software solutions.<br><br>I enjoy experimenting with new technologies, developing personal projects, and learning by solving challenging technical problems. I aim to strengthen my research skills, deepen my understanding of AI and ML, and pursue a Master’s degree where I can contribute to meaningful research and develop innovative, practical solutions.<br><br>My long-term goal is to grow as an AI/ML researcher and engineer, combining strong technical foundations, research-driven thinking, and hands-on development to create technology that makes a real difference.
 
-<div align="center">
 
-<!-- HEADER -->
-<pre>
-saif@github:~$ cat README.md                                                                  [ <a href="https://github.com/yourusername">GitHub</a> ] [ Projects ] [ Code ] [ AI ] [ Cybersecurity ] [ Contact ]
-</pre>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saifsui7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saifulislaam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saifsm7@yahoo.com) 
 
-<!-- MAIN TITLE & BIO (Using a table to split left and right) -->
-<table width="100%" border="0">
-  <tr>
-    <td width="65%" align="left" valign="top">
-      <h1>SAIF UL ISLAM</h1>
-      <h3>> Software Engineering Graduate</h3>
-      <p>
-        | &nbsp; Focus: Artificial Intelligence & Machine Learning<br>
-        | &nbsp; Also: &nbsp; Full-Stack Engineering<br>
-        | &nbsp; From: &nbsp; Swat, Khyber Pakhtunkhwa, Pakistan<br>
-        | &nbsp; Goal: &nbsp; Master's Study (AI/ML)<br>
-        >> Motto: Learn > Build > Explore > Improve
-      </p>
-    </td>
-    <td width="35%" align="right" valign="top">
-      <p>
-        PAKISTAN<br>
-        > SWAT<br>
-        34.7470° N<br>
-        72.3624° E
-      </p>
-      <!-- NOTE: The background image of the hacker cannot be embedded via standard Markdown. 
-           To achieve that, you must create a custom SVG banner and place it here as an <img> tag. -->
-    </td>
-  </tr>
-</table>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=saifulislaam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=saifulislaam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=saifulislaam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- SOCIAL BUTTONS (Using Shields.io to create the neon green buttons) -->
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117&color=00ff41" alt="GitHub"></a>
-<a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0d1117&color=00ff41" alt="LinkedIn"></a>
-<a href="#"><img src="https://img.shields.io/badge/WEBSITE-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00ff41&labelColor=0d1117&color=00ff41" alt="Website"></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d1117&color=00ff41" alt="Email"></a>
-<a href="#"><img src="https://img.shields.io/badge/CONTACT-0d1117?style=for-the-badge&logo=whatsapp&logoColor=00ff41&labelColor=0d1117&color=00ff41" alt="Contact"></a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=saifulislaam&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-<br><br>
+---
+[![](https://komarev.com/ghpvc/?username=saifulislaam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- GRID SECTION 1: WHOAMI / INTERESTS / EDUCATION -->
-<table width="100%" border="0">
-  <tr>
-    <!-- COLUMN 1: WHOAMI -->
-    <td width="33%" valign="top" align="left">
-      <h3>> whoami</h3>
-      <pre>
-Name       : Saif ul Islam
-Role       : Software Engineering Graduate
-Focus      : AI & Machine Learning
-Also       : Full-Stack Engineering
-Location   : Swat, Khyber Pakhtunkhwa, Pakistan
-Education  : B.Sc. Software Engineering
-             University of Swat
-Status     : Graduated (Applying for Master's)
-Interests  : AI/ML, Full-Stack, Cybersecurity,
-             Open Source, Building Useful Tools
-      </pre>
-    </td>
-    
-    <!-- COLUMN 2: AREAS OF INTEREST -->
-    <td width="33%" valign="top" align="left">
-      <h3>> areas_of_interest</h3>
-      <ul>
-        <li>🧠 <strong>Artificial Intelligence</strong><br><sub>Machine Learning, Deep Learning, NLP, Computer Vision</sub></li>
-        <li>&lt;/&gt; <strong>Full-Stack Engineering</strong><br><sub>Modern Web Technologies & Scalable Systems</sub></li>
-        <li>🛡️ <strong>Cybersecurity</strong><br><sub>Learning, Exploring, Defensive Security</sub></li>
-        <li>📂 <strong>Open Source</strong><br><sub>Build • Contribute • Learn</sub></li>
-        <li>💡 <strong>Research & Innovation</strong><br><sub>Real-world Problem Solving with AI</sub></li>
-      </ul>
-    </td>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/saif7) 
 
-    <!-- COLUMN 3: EDUCATION & GOAL -->
-    <td width="33%" valign="top" align="left">
-      <h3>> education</h3>
-      <p>
-        🎓 <strong>B.Sc. Software Engineering</strong><br>
-        University of Swat<br>
-        Graduated<br>
-        CGPA: 2.62 (as per latest record)
-      </p>
-      <br>
-      <h3>> current_goal</h3>
-      <p>
-        🎯 <strong>Master's Study</strong><br>
-        In Artificial Intelligence & Machine Learning<br>
-        Continuing to learn, build, and grow.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- GRID SECTION 2: GITHUB STATS / CONTRIBUTIONS -->
-<table width="100%" border="0">
-  <tr>
-    <!-- COLUMN 1: GITHUB STATS -->
-    <td width="33%" valign="top" align="left">
-      <h3>> github_stats</h3>
-      <pre>
-📁 Repositories  : 0+
-📈 Contributions : Active
-🔗 Open Source   : Yes
-🧠 Focus         : AI / ML
-📖 Learning      : Always
-      </pre>
-    </td>
-    
-    <!-- COLUMN 2: CONTRIBUTIONS GRAPH -->
-    <td width="67%" valign="top" align="center">
-      <h3>> contributions</h3>
-      <!-- Replace 'yourusername' with your actual GitHub username -->
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%">
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- FOOTER -->
-<pre>
-{ " Building a better future with code, AI, and continuous learning. " }                            saif@github:~$ █
-</pre>
-
-</div>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
